@@ -1,4 +1,4 @@
-require 'rails_helper'
+=beginrequire 'rails_helper'
 
 describe 'navigate' do
   before do
